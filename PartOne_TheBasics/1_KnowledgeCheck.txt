@@ -1,0 +1,6 @@
+QUESTIONS
+A) True/False. C# is a special-purpose language optimized for making web applications.
+B) What is the name of the framework that C# runs on?
+
+A)
+B)
